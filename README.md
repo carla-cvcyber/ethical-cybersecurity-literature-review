@@ -1,53 +1,56 @@
-# ethical-cybersecurity-literature-review
-Carla Vieira’s cybersecurity ethics literature review &amp; blog
-# Ethical Challenges in the Cybersecurity Sector
-
-**Author:** Carla Vieira  
-**Originally written for:** Ethics in Digital Investigation and Cybersecurity  
-**Institution:** Undisclosed
-**Adapted into Blog:** [Read on cvcyber.dev](https://cvcyber.dev)
+# Ethical Cybersecurity Literature Review  
+**Author:** Carla Vieira | 2023  
+**Repository Purpose:** Academic and professional showcase of a literature-backed blog on ethical dilemmas in cybersecurity.
 
 ---
 
-## Overview
+## 📚 Overview
 
-This project explores the ethical dilemmas cybersecurity professionals face in a rapidly evolving digital world, including:
+This project supports the blog post _[“The Ethical Vacuum in Cybersecurity: Why Professionals Are Still Navigating Alone”](https://cvcyber.dev/ethical-cybersecurity-literature)_, published on [cvcyber.dev](https://cvcyber.dev).
 
-- Data privacy vs. access
-- Whistleblowing and legal risk
-- Conflicting international laws
-- AI and neurotechnology in cybersecurity
-- The elusive quest for a Universal Code of Conduct
+The article explores the growing complexity of ethics in cybersecurity, drawing from eight peer-reviewed sources to discuss dilemmas such as:
 
-Drawing on 8+ peer-reviewed sources (2019–2023), this review analyzes current industry challenges and frameworks like principlism and global governance models.
+- AI and data privacy
+- Whistleblowing vs. professional loyalty
+- Conflicting codes of ethics and national laws
 
----
-
-## Why This Matters
-
-Cybersecurity is no longer just about systems — it’s about people, power, and ethics. And without a clear ethical framework, professionals are left navigating high-stakes grey zones alone.
-
-> “Ethics won’t come from policy alone — it will come from people. And that starts with us.”
+The accompanying literature review was written as a standalone academic piece and is available below in PDF and Markdown formats.
 
 ---
 
-## Contents
+## 📂 Contents
 
-- `Lit_Review_CVCyber.pdf` – A 4-page, visually polished academic document.
-- `Full_Blog_Post.md` – The adapted blog version published on [cvcyber.dev](https://cvcyber.dev)
-
----
-
-## Suggested Use
-
-This project is shared for:
-- Demonstrating research and analysis skills in cybersecurity ethics
-- Sparking discussion around policy, AI governance, and professional standards
-- Use in educational portfolios or interview conversations
+| File | Description |
+|------|-------------|
+| `Lit_Review_CVCyber.pdf` | Academic, portfolio-ready version of the literature review |
+| `Full_Blog_Post.md` | Markdown version of the blog post |
+| `sources.txt` | APA-style reference list |
+| `LICENSE` | Use and attribution guidelines (non-commercial, personal use only) |
 
 ---
 
-## License
+## 🧠 Featured Blog Post
 
-**Personal academic work.** Shared for professional development and educational discussion only. Please credit the author when referencing this work. Do not reproduce or distribute without permission.
+### [The Ethical Vacuum in Cybersecurity](https://cvcyber.dev/ethical-cybersecurity-literature)  
+Published on [cvcyber.dev](https://cvcyber.dev), this article reflects on the lack of cohesive ethical frameworks in the cybersecurity profession. It evaluates whether a Universal Code of Conduct is possible — or even desirable — in an industry marked by rapid innovation and global fragmentation.
 
+📄 [Download the academic PDF](./Lit_Review_CVCyber.pdf)  
+📝 [Read the Markdown version](./Full_Blog_Post.md)
+
+---
+
+## 🔖 License
+
+This work is protected under a custom academic license:
+
+> This content is the intellectual property of Carla Vieira. It is made available for educational and professional development purposes only.  
+> Please credit the author when referencing or sharing. Commercial use is not permitted without written consent.  
+> © 2023 Carla Vieira
+
+---
+
+## 🌐 About the Author
+
+Carla Vieira is a cybersecurity student and advocate for ethical technology. Her work focuses on bridging technical practice with responsible innovation. More at [cvcyber.dev](https://cvcyber.dev).
+
+---
