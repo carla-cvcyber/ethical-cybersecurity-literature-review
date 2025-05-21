@@ -33,9 +33,8 @@ Cybersecurity is no longer just about systems — it’s about people, power, an
 
 ## Contents
 
-- `Literature_Review_Summary.pdf` – A 2-page, visually polished portfolio summary
+- `Lit_Review_CVCyber.pdf` – A 4-page, visually polished academic document.
 - `Full_Blog_Post.md` – The adapted blog version published on [cvcyber.dev](https://cvcyber.dev)
-- `sources.txt` – Complete APA reference list
 
 ---
 
